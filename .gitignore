@@ -1,1 +1,4 @@
 backend/venv
+backend/model/final_model
+backend/__pycache__
+backend/process_image.py
